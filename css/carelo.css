@@ -1,0 +1,13 @@
+.fontSize {
+  font-size: 25px;
+}
+
+.acquistaButton {
+  font-size: 25px;
+  margin-top: 150px;
+  padding: 20px;
+}
+
+.hide {
+  display: none;
+}

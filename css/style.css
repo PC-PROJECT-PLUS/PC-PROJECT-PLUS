@@ -1,0 +1,146 @@
+html, body {
+    background-color: black;
+    color: white;
+    width: auto;
+    height: auto;
+}
+
+* {
+    font-family: Inter Tight;
+}
+
+.setta {
+    align-items: center;
+    margin: 30px;
+}
+
+.setta img:hover {
+    cursor: pointer;
+}
+
+.setta a {
+    text-decoration: none;
+    color: white;
+    font-size: large;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.setta a:hover {
+    background-color: #353434;
+}
+
+#search {
+    border-radius: 10px;
+    width: 220px;
+    padding: 0px 5px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+main > h1 {
+    margin: 90px 0px;
+    font-size: 50px;
+    justify-content: center;
+}
+
+.resize {
+    width: 250px;
+    height: 250px;
+}
+
+.prodotti {
+    align-items: center;
+    justify-content: center;
+    background-color: #353434;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 23px;
+}
+
+.prodotti p {
+    font-size: larger;
+    margin: 30px 0px;
+}
+
+.prodotti a {
+    background-color: #757575;
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.prodotti:hover {
+    cursor: pointer;
+    background-color: #6b6767;
+}
+
+.color {
+    background-color: #181616;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #757575;
+    margin-top: 200px;
+    padding: 20px;
+}
+
+footer > p{
+    margin: 80px 0px;
+}
+
+footer > a {
+    color: white;
+    font-size: 30px;
+}
+
+.underline {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.ciao {
+    display: flex;
+    flex-direction: row;
+}
+
+.link {
+  color: white;
+}
+
+.fontOldProject {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.h3 {
+  font-size: 35px;
+}
+
+.click:hover {
+  cursor: pointer;
+}
+
+.round {
+    border-radius: 70%;
+}
+
+.marginTop {
+  margin-top: 170px;
+}
+
+.bord {
+  border-radius: 10px;
+}
